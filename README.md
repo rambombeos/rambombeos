@@ -28,7 +28,14 @@ I'm a passionate Fullstack Developer specializing in Next.js/React and Django. W
 
 ## 📫 Let's Connect!
 
-[![](https://cdn-icons-png.flaticon.com/512/552/552486.png)](mailto:rambombeos@gmail.com) [![](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/rambombeo/) [![](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/rambombeo) [![](https://cdn-icons-png.flaticon.com/512/5968/5968958.png)](https://x.com/rambsdev) [![](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/devrambs/) [![](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://www.facebook.com/rambsdev) [![](https://cdn-icons-png.flaticon.com/512/841/841364.png)](https://rambsdev.netlify.app/) [![](https://cdn-icons-png.flaticon.com/512/1384/1384060.png)](https://www.youtube.com/@rambsdev)
+[![Email](https://img.shields.io/badge/Email-rambombeos%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rambombeos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rambombeo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rambombeo/)
+[![Twitter](https://img.shields.io/badge/Twitter-rambombeo-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rambombeo)
+[![X](https://img.shields.io/badge/X-rambsdev-black?style=for-the-badge&logo=x)](https://x.com/rambsdev)
+[![Instagram](https://img.shields.io/badge/Instagram-devrambs-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/devrambs/)
+[![Facebook](https://img.shields.io/badge/Facebook-rambsdev-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/rambsdev)
+[![Website](https://img.shields.io/badge/Website-rambsdev.netlify.app-green?style=for-the-badge&logo=netlify)](https://rambsdev.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-rambsdev-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@rambsdev)
 
 ## 💡 Fun Fact
 
