@@ -25,16 +25,10 @@ I'm a passionate Fullstack Developer specializing in Next.js/React and Django. W
 2. Project 2: Brief description
 3. Project 3: Brief description -->
 
+
 ## 📫 Let's Connect!
 
-- <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="16" height="16"> rambombeos@gmail.com
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" height="16"> https://www.linkedin.com/in/rambombeo/
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16" height="16"> https://twitter.com/rambombeo
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="16" height="16"> https://x.com/rambsdev
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="16" height="16"> https://www.instagram.com/devrambs/
-- <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="16" height="16"> https://www.facebook.com/rambsdev
-- <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="16" height="16"> https://rambsdev.netlify.app/
-- <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="16" height="16"> https://www.youtube.com/@rambsdev
+[![](https://cdn-icons-png.flaticon.com/512/552/552486.png)](mailto:rambombeos@gmail.com) [![](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/rambombeo/) [![](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/rambombeo) [![](https://cdn-icons-png.flaticon.com/512/5968/5968958.png)](https://x.com/rambsdev) [![](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/devrambs/) [![](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://www.facebook.com/rambsdev) [![](https://cdn-icons-png.flaticon.com/512/841/841364.png)](https://rambsdev.netlify.app/) [![](https://cdn-icons-png.flaticon.com/512/1384/1384060.png)](https://www.youtube.com/@rambsdev)
 
 ## 💡 Fun Fact
 
