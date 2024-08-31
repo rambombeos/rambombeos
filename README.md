@@ -27,18 +27,17 @@ I'm a passionate Fullstack Developer specializing in Next.js/React and Django. W
 
 ## 📫 Let's Connect!
 
-- <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="16" height="16"> Email: rambombeos@gmail.com
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" height="16"> LinkedIn: https://www.linkedin.com/in/rambombeo/
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16" height="16"> Twitter: https://twitter.com/rambombeo
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="16" height="16"> X (Twitter): https://x.com/rambsdev
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="16" height="16"> Instagram: https://www.instagram.com/devrambs/
-- <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="16" height="16"> Facebook: https://www.facebook.com/rambsdev
-- <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="16" height="16"> Website: https://rambsdev.netlify.app/
-- <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="16" height="16"> YouTube: https://www.youtube.com/@rambsdev
+- <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="16" height="16"> rambombeos@gmail.com
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" height="16"> https://www.linkedin.com/in/rambombeo/
+- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16" height="16"> https://twitter.com/rambombeo
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="16" height="16"> https://x.com/rambsdev
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="16" height="16"> https://www.instagram.com/devrambs/
+- <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="16" height="16"> https://www.facebook.com/rambsdev
+- <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="16" height="16"> https://rambsdev.netlify.app/
+- <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="16" height="16"> https://www.youtube.com/@rambsdev
 
 ## 💡 Fun Fact
 
 I believe that coding is not just about writing lines of code, but about solving real-world problems and creating meaningful experiences!
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
-
