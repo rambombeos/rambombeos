@@ -14,8 +14,8 @@ I'm a passionate Fullstack Developer specializing in Next.js/React and Django. W
 - Frontend: Next.js, React, HTML, CSS, JavaScript
 - Backend: Django, Python
 - Database: PostgreSQL, MongoDB
-- Version Control: Git, GitHub
-- DevOps: Docker, CI/CD
+- Version Control: Git, GitHub, Gitlab
+- DevOps: Docker, CI/CD, AWS
 
 <!-- ## 🌟 Featured Projects
 
