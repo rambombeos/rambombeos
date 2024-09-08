@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rambs!
 
-I'm a passionate Fullstack Developer specializing in Next.js/React and Django. Welcome to my GitHub profile!
+I'm a passionate Senior Fullstack Developer specializing in Next.js/React and Django. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
