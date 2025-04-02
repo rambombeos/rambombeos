@@ -11,8 +11,8 @@ I'm a passionate Senior Fullstack Developer specializing in Next.js/React and Dj
 
 ## 🛠️ Tech Stack
 
-- Frontend: Next.js, React, HTML, CSS, JavaScript
-- Backend: Django, Python
+- Frontend: Next.js, React, Alpine.js, HTML, CSS, JavaScript
+- Backend: Django, Flask, Python
 - Database: PostgreSQL, MongoDB
 - Version Control: Git, GitHub, Gitlab
 - DevOps: Docker, CI/CD, AWS
