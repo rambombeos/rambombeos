@@ -4,8 +4,8 @@ I'm a passionate Senior Fullstack Developer specializing in Next.js/React and Dj
 
 ## 🚀 About Me
 
-- 💻 Fullstack Developer with expertise in Next.js, React, and Django
-- 🌱 Currently diving deep into Software Architecture
+- 💻 Full-stack Developer with expertise in Next.js, React, Django, Flask.
+- 🌱 Currently diving deep into AI Development.
 - 👀 Always interested in new and exciting Software Development projects
 - 🤝 Open to collaborating on innovative projects
 
@@ -17,7 +17,7 @@ I'm a passionate Senior Fullstack Developer specializing in Next.js/React and Dj
 - Version Control: Git, GitHub, Gitlab
 - DevOps: Docker, CI/CD, AWS
 
-<!-- ## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects  
 
 (You can add links to your top projects here)
 
